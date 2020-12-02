@@ -1,0 +1,1 @@
+=SUMIF(H:H,$A2,G:G) - compare two column and add all values in another column

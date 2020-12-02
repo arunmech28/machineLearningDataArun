@@ -1,0 +1,25 @@
+function getNoOfRows()
+function addAllAssistForAPlayer
+create key value pair object(map)
+for each row 
+if(player name present in key map object)
+{
+getValue(Key) += getValueFromAssist column
+} else {
+createKey with player Name 
+Add value to that key
+}
+
+function createExcel(Map Object)
+iterate over Map
+Add key in one column
+Add value in next column
+Save the excel
+
+This program will allow the user to get any details for a player and also for multi-players
+for single player assist -> add each match assist(Ignore zero valuesmIgnore null values)
+for multi player assist -> add each match assist corresponding to the player name(Ignore zero valuesmIgnore null values)
+for single player goals -> add each match goals(Ignore zero valuesmIgnore null values)
+for multi player goals -> add each match goals corresponding to the player name(Ignore zero valuesmIgnore null values)
+for overall max goal scorer and TOTAL goals -> get the maximum goals scored by anyone and number of goals by that player(Ignore zero valuesmIgnore null values)
+for overall max assists and total assists -> get the maximum goals assisted by anyone and number of assists by that player(Ignore zero valuesmIgnore null values)
